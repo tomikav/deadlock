@@ -1,0 +1,9 @@
+# compilados (los .vpk van en Releases)
+*.vpk
+*_c
+
+# basura de Windows / editores
+Thumbs.db
+desktop.ini
+.vscode/
+*.blend1
